@@ -1,0 +1,31 @@
+body {
+    background-color: #636a76;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+    background-color: azure;
+    font-size: 22px;
+    color: #56585c;
+    padding: 20px;
+}
+
+.list {
+    color: #ECF0F1;
+}
+
+p {
+    color: #ECF0F1;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin: auto;  
+    height: 200px;
+    width: 190px;
+}
